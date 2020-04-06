@@ -1,2 +1,1 @@
-# gbagames
-by swayam
+# ouroboroz.github.io
